@@ -1,2 +1,2 @@
-# Userscripts
+# Firefox Userscripts
 Collection of Firefox Userscripts.
