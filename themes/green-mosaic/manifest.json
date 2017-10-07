@@ -1,28 +1,28 @@
 {
-	"name"				: "Green Mosaic",
-	"description"		: "A simple, green mosaic theme. - Grant Miller",
-	"version"			: "1.0",
-	"manifest_version"	: 2,
-	"homepage_url"		: "https://github.com/grant-miller/firefox/tree/master/themes/green-mosaic",
-	
-	"developer"	: {
-		"name"		: "Grant Miller",
-		"url"		: "https://github.com/grant-miller"
-	},
-	
-	"icons"		: {
-		"48"		: "icon-48.png",
-		"96"		: "icon-96.png"
-	},
-	
-	"theme"		: {
-		"images"	: {
-			"headerURL"		: "theme.png"
-		},
-		
-		"colors"	: {
-			"accentcolor"	: "#7ccd5e",
-			"textcolor"		: "#f5f5f5"
-		}
-	}
+    "name": "Green Mosaic",
+    "description": "A simple, green mosaic theme. - Grant Miller",
+    "version": "1.0",
+    "manifest_version": 2,
+    "homepage_url": "https://github.com/grant-miller/firefox/tree/master/themes/green-mosaic",
+    
+    "developer": {
+        "name": "Grant Miller",
+        "url": "https://github.com/grant-miller"
+    },
+    
+    "icons": {
+        "48": "icon-48.png",
+        "96": "icon-96.png"
+    },
+    
+    "theme": {
+        "images": {
+            "headerURL": "theme.png"
+        },
+        
+        "colors": {
+            "accentcolor": "#7ccd5e",
+            "textcolor": "#f5f5f5"
+        }
+    }
 }
